@@ -1,1 +1,2 @@
-*.HTML linguist-language=Angular
+* linguist-vendored
+*.js linguist-vendored=false
